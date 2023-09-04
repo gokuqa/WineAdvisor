@@ -1,0 +1,29 @@
+Hola,parecen muchas instrucciones, pero te aseguro que no son ni 10.
+para poder hacer correr este proyecto, solo ocupas seguir unos cuantos pasos.
+
+
+1.-tener instalado Node.js en tu pc. te dejo un video por aqui:
+https://www.youtube.com/watch?v=6FwHrsnBwQU 
+
+2.- descargas ela archivo rar y te ubicas en la carpeta descomprimida del zip con la consola por medio de cmd 
+o la consola se vs code con el comando CD, o directamente sobre la carpeta das click derecho abrir con vs code 
+y abres consola.
+2.- puedes usar cualquiera de estos comandos, los usaremos para instalar las dependencias
+yarn I
+npm I
+3.-opcional, si no funcionan puedes descargarlas dependencias de forma manual, solo son estos dos comandos:
+npx expo install react-dom react-native-web @expo/webpack-config 
+npx expo install react-native-screens react-native-safe-area-context
+4.-ejecutamos este comando con el que vamos a arrancar un servidor de pruebas en tiempo real.
+ npx expo start
+5.-te mostrara un menu con diferentes opciones, 
+yo recomiendo que presiones w o que lo visualices en tu celular, 
+esta ultima es con la que yo trabaje el proyecto.
+
+6.- solo si vas a visualizarlo en tu celular.
+necesitas instalar la aplicacion expo Go desde play store.
+ al momento de abrirla te dara la opcion "Scan QR code", 
+lo presionas y te pedira permisos para acceder al a camara.
+despues de aberlos aceptado, escaneas el codigo QR que aparece en tu consola.
+con eso ya tendras funcionando la aplicacion en tiempo real.
+si tienes alguna duda, te dejo mi whatsapp 3531134891, me llamo jesus. Saludos!
